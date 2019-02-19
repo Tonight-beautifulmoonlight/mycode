@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1548761878 source:e:\1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	<string.h>
+
+1549103698 source:c:\c代码文件夹\1\ff.c
+
+1550502674 source:c:\c代码文件夹\1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	<string.h>
+	"ff.h"
+	<math.h>
+
+1550028103 source:c:\c代码文件夹\1\test.c
+
+1549103698 c:\c代码文件夹\1\ff.h
+
